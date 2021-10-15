@@ -15,23 +15,40 @@
 <p>Plataforma que administre pedidos de una tienda de barrio</p>
 <h2>Requerimientos funcionales</h2>
 <ol> 
-<li><b>Como</b> <i>repartidor</i> <b>quiero</b> entregar dos cartas al <i>jugador</i>, una de esas oculta para mi <b>para</b> dar inicio a la partida.</li>
-<li><b>Como</b> <i>repartidor</i> <b>quiero</b> tomar dos cartas, una de ellas oculta para el <i>jugador</i> <b>para</b> dar inicio a la partida.</li>
-<li><b>Como</b> <i>jugador</i> <b>quiero</b> recibir dos cartas del <i>repartidor</i>, que sean visibles solo para mi <b>para</b> que él no vea mi juego completo.</li>
-<li><b>Como</b> <i>jugador</i> <b>quiero</b> solicitar una carta visible para todos <b>para</b> sumar a mi puntaje.</li>
-<li><b>Como</b> <i>jugador</i> <b>quiero</b> obtener la suma de los valores de una mano <b>para</b> saber el valor total.</li>
-<li><b>Como</b> <i>jugador</i> <b>quiero</b> plantar el juego <b>para</b> no exceder el valor de 21 con la sumatoria de cartas.</li>
-<li><b>Como</b> <i>repartidor</i> <b>quiero</b> definir quién ganó por mayoría de puntaje <b>para</b> finalizar el juego.</li>
-<li><b>Como</b> <i>repartidor</i> <b>quiero</b> definir quién ganó en caso de empate <b>para</b> finalizar el juego.</li>
+<li>Registrar y eliminar Productos.</li>
+<li>Visualizar y editar los productos.</li>
+<li>Gestionar las cuentas de los compradores y domiciliarios.</li>
+<li>Ver el historial de ventas y compras.</li>
+<li>Ver reporte de precios.</li>
+<li>Ver las facturas generadas.</li>
+<li>Ver los tiempos de entrega de cada domiciliario.</li>
+<li>Ver estado de los pedidos.</li>
+<li>Registrarse y loguearse  en el sistema.</li>
+<li>Creación de promociones.</li>
+<li>notificaciones por correo.</li>
+<li>Registrarse  (Cualquier rol).</li>
+<li>Iniciar sesión (Cualquier rol).</li>
+<li>Agregar productos al carrito de compras.</li>
+<li>Compra de elementos.</li>
+<li>Pago de productos.</li>
+<li>Comprobante de pago.</li>
+<li>Hacer seguimiento a una compra.</li>
+<li>Modificar los elementos comprados.</li>
+<li>Ver y modificar los datos personales.</li>
+<li>Ver historial de compras realizadas.</li>
+<li>Ver historial de compras realizadas.</li>
+<li>Ver zona de cobertura.</li>
+<li>Realizar pagos por PSE o tarjeta de Crédito.</li>
+<li>Recibir Solicitud del pedido a entregar.</li>
+<li>Recibir información detallada del pedido.</li>
+<li>Ver ruta más corta de la dirección de entrega.</li>
+<li>Ver historial de entregas realizadas.</li>
+<li>Ver tiempo promedio de cada entrega realizada.</li>
+<li>Ver tiempo de la entrega activa.</li>
+<li>Confirmación de entrega del pedido.</li>
 </ol>
 <h2>Requerimientos no funcionales</h2>
 <ol> 
-<li><b>Como</b> <i>repartidor</i> <b>quiero</b> entregar dos cartas al <i>jugador</i>, una de esas oculta para mi <b>para</b> dar inicio a la partida.</li>
-<li><b>Como</b> <i>repartidor</i> <b>quiero</b> tomar dos cartas, una de ellas oculta para el <i>jugador</i> <b>para</b> dar inicio a la partida.</li>
-<li><b>Como</b> <i>jugador</i> <b>quiero</b> recibir dos cartas del <i>repartidor</i>, que sean visibles solo para mi <b>para</b> que él no vea mi juego completo.</li>
-<li><b>Como</b> <i>jugador</i> <b>quiero</b> solicitar una carta visible para todos <b>para</b> sumar a mi puntaje.</li>
-<li><b>Como</b> <i>jugador</i> <b>quiero</b> obtener la suma de los valores de una mano <b>para</b> saber el valor total.</li>
-<li><b>Como</b> <i>jugador</i> <b>quiero</b> plantar el juego <b>para</b> no exceder el valor de 21 con la sumatoria de cartas.</li>
-<li><b>Como</b> <i>repartidor</i> <b>quiero</b> definir quién ganó por mayoría de puntaje <b>para</b> finalizar el juego.</li>
-<li><b>Como</b> <i>repartidor</i> <b>quiero</b> definir quién ganó en caso de empate <b>para</b> finalizar el juego.</li>
+<li></li>
+<li></li>
 </ol>
