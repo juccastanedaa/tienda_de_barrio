@@ -36,7 +36,6 @@
 <li>Modificar los elementos comprados.</li>
 <li>Ver y modificar los datos personales.</li>
 <li>Ver historial de compras realizadas.</li>
-<li>Ver historial de compras realizadas.</li>
 <li>Ver zona de cobertura.</li>
 <li>Realizar pagos por PSE o tarjeta de Crédito.</li>
 <li>Recibir Solicitud del pedido a entregar.</li>
@@ -49,6 +48,17 @@
 </ol>
 <h2>Requerimientos no funcionales</h2>
 <ol> 
-<li></li>
-<li></li>
+<li>Registrar 100 productos del mismo tipo  y la misma marca con diferente id.</li>
+<li>Generar alerta de inventario, cuando se agoten los registros de un producto.</li>
+<li>Registrar el nombre del producto en mayúscula sostenida.</li>
+<li>Visualizar cuántas unidades del producto se encuentran en el inventario.</li>
+<li>Almacenar los cambios de nombre del producto en mayúscula sostenida.</li>
+<li>El usuario debe contar con conectividad a internet y un visor (browser).</li>
+<li>La plataforma podrá soportar 50 usuarios ingresando al mismo tiempo.</li>
+<li>El aplicativo debe funcionar solo en horario laboral.</li>
+<li>La longitud de las claves debe contener mínimo 8 caracteres y debe incluir símbolos y al menos una letra en mayúscula.</li>
+<li>El sistema debe contar con manuales de usuario estructurados adecuadamente.</li>
+<li>Se debe publicitar en la zona de influencia de la tienda.</li>
+<li>Debe ser multiplataforma para ejecutarse en distintos navegadores (Chrome, Opera, Firefox, Explorer).</li>
+<li>Se deben cumplir las políticas de Habeas Data para proteger información susceptible de los usuarios.</li>
 </ol>
