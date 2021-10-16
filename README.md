@@ -14,6 +14,8 @@
 <img src="https://us.123rf.com/450wm/schlaumal/schlaumal1807/schlaumal180700005/104710853-tienda-tienda-icono-con-se%C3%B1al-en-blanco-fachada-casa-aislado-blanco-plano-de-fondo.jpg" width="100">
 <p>Plataforma que administre pedidos de una tienda de barrio</p>
 <h2>Requerimientos funcionales</h2>
+<h3>Administrador-Vendedor</h3>
+
 <ol> 
 <li>Registrar y eliminar Productos.</li>
 <li>Visualizar y editar los productos.</li>
@@ -26,6 +28,11 @@
 <li>Registrarse y loguearse  en el sistema.</li>
 <li>Creación de promociones.</li>
 <li>notificaciones por correo.</li>
+</ol>
+<h3>Comprador</h3>
+
+<ol>
+  
 <li>Registrarse  (Cualquier rol).</li>
 <li>Iniciar sesión (Cualquier rol).</li>
 <li>Agregar productos al carrito de compras.</li>
@@ -38,6 +45,11 @@
 <li>Ver historial de compras realizadas.</li>
 <li>Ver zona de cobertura.</li>
 <li>Realizar pagos por PSE o tarjeta de Crédito.</li>
+</ol>
+<h3>Domicilario</h3>
+
+<ol>
+  
 <li>Recibir Solicitud del pedido a entregar.</li>
 <li>Recibir información detallada del pedido.</li>
 <li>Ver ruta más corta de la dirección de entrega.</li>
